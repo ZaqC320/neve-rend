@@ -1,24 +1,14 @@
 {
-  "name": "neve-rend",
-  "title": "Neve-Rend: Bound by Blood",
-  "version": "0.1.0",
-  "author": "YourName",
-  "esmodules": [],
-  "styles": ["styles/style.css"],
-  "scripts": [],
-  "packs": [],
-  "languages": [
-    {
-      "lang": "en",
-      "name": "English",
-      "path": "lang/en.json"
-    }
-  ],
+  "id": "neve-rend",
+  "title": "Neve-Rend",
+  "version": "1.0.0",
+  "author": "Zaq Chelf",
+  "description": "The custom system for Neve-Rend: Bound by Blood.",
   "minimumCoreVersion": "11",
   "compatibleCoreVersion": "11",
-  "system": {
-    "scripts": [],
-    "templates": ["templates/sheets/character-sheet.html"]
-  },
-  "type": "system"
+  "scripts": ["scripts/main.js"],
+  "styles": ["styles/neve-rend.css"],
+  "packs": [],
+  "languages": [],
+  "system": {}
 }
