@@ -1,0 +1,24 @@
+{
+  "name": "neve-rend",
+  "title": "Neve-Rend: Bound by Blood",
+  "version": "0.1.0",
+  "author": "YourName",
+  "esmodules": [],
+  "styles": ["styles/style.css"],
+  "scripts": [],
+  "packs": [],
+  "languages": [
+    {
+      "lang": "en",
+      "name": "English",
+      "path": "lang/en.json"
+    }
+  ],
+  "minimumCoreVersion": "11",
+  "compatibleCoreVersion": "11",
+  "system": {
+    "scripts": [],
+    "templates": ["templates/sheets/character-sheet.html"]
+  },
+  "type": "system"
+}
